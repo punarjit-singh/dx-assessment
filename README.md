@@ -48,3 +48,17 @@ For test automation specifically:
 - Automatic PR checklist to spread general awareness on things to avoid, including a few straightforward items that result in immediate PR rejection, e.g. a duplicate method.
 - Test the test code. Motivate teams to treat the test code as production quality code.
 - CI code reuse
+
+## Question 3. Role of QE within agile cross functional team
+
+Before explaining the day to day activities of a QE, I would mention some really important aspects of being a successful Quality Engineer.
+- Quality Engineers are required to take care of the over process improvements, code quality and test innovations.
+- QE should take ownership tp0 compliment the developers while working cross-functionally hand in hand.
+- To achieve in-sprint test automation, it's very important that QE motivates the team to achieve this and creates a cross-functional test contribution environment.
+- QE should be able to motivate the team to make the app most testable
+- Regular innovations are really important - the team should work towards improving efficiency by making good use of technology overall.
+
+A typical day for a QE:
+- Start by checking the regularly running regression automation scripts. See if there's anything alarming and investigate if required.
+- Really important to perform detailed code reviews from app code as there's always something to learn from the code or the comments.
+- Create and maintain the Quality Engineering Strategy for the team.
