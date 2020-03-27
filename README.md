@@ -45,6 +45,6 @@ For test automation specifically:
 - Add capabilities to remount UI components so server rendered backend response can be mocked.
 - Add Git Hooks to notify committer about mandatory transactions
 - Automatic Mock Data generation
-- Automatic PR checklist to spread general awareness on things to avoid, including a few straightforward items that result in immediate PR rejection, e.g. a duplicate custom command.
+- Automatic PR checklist to spread general awareness on things to avoid, including a few straightforward items that result in immediate PR rejection, e.g. a duplicate method.
 - Test the test code. Motivate teams to treat the test code as production quality code.
 - CI code reuse
